@@ -3,3 +3,21 @@
 2025-03-18T23:35:58.254Z [INFO]: Incoming request: POST /upload
 2025-03-18T23:35:58.836Z [INFO]: File uploaded successfully: https://multi-market-hub.s3.us-east-1.amazonaws.com/uploads/1742340958260_bg.jpg
 2025-03-18T23:35:58.837Z [INFO]: File uploaded successfully: https://multi-market-hub.s3.us-east-1.amazonaws.com/uploads/1742340958260_bg.jpg
+2025-03-19T03:38:27.893Z [INFO]: Server running on port 8000
+2025-03-19T03:41:00.931Z [INFO]: Server running on port 8000
+2025-03-19T03:42:04.165Z [INFO]: Incoming request: POST /send-email
+2025-03-19T03:42:04.665Z [INFO]: Email sent successfully to mahesh.sivngi@gmail.com
+2025-03-19T03:45:20.183Z [INFO]: Incoming request: POST /send-email
+2025-03-19T03:45:20.459Z [ERROR]: Email sending failed: Error sending email: Email address is not verified. The following identities failed the check in region US-EAST-1: mahesh.sivngi@gmail.com
+2025-03-19T03:58:54.516Z [INFO]: Server running on port 8000
+2025-03-19T03:59:17.424Z [INFO]: Incoming request: POST /verify-email
+2025-03-19T04:01:11.519Z [INFO]: Server running on port 8000
+2025-03-19T04:01:17.837Z [INFO]: Incoming request: POST /verify-email
+2025-03-19T04:03:31.852Z [INFO]: Incoming request: POST /upload
+2025-03-19T04:03:32.448Z [INFO]: File uploaded successfully: https://multi-market-hub.s3.us-east-1.amazonaws.com/uploads/1742357011858_bg.jpg
+2025-03-19T04:03:32.449Z [INFO]: File uploaded successfully: https://multi-market-hub.s3.us-east-1.amazonaws.com/uploads/1742357011858_bg.jpg
+2025-03-19T04:05:46.482Z [INFO]: Incoming request: POST /verify-email
+2025-03-19T04:06:46.864Z [INFO]: Incoming request: GET /verified-emails
+2025-03-19T04:07:34.930Z [INFO]: Incoming request: GET /verified-emails
+2025-03-19T04:09:11.472Z [INFO]: Incoming request: POST /send-email
+2025-03-19T04:09:11.762Z [INFO]: Email sent successfully to mahesh.sivngi@gmail.com
